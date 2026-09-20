@@ -3,11 +3,11 @@
 <h3 align="center">3rd Year Student · Learning to Code · Dinanagar, India 🇮🇳</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sumit-kumar-1341">
+  <a href="https://www.linkedin.com/in/sumit-kumar-134149325">
     <img src="https://img.shields.io/badge/LinkedIn-Sumit_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:sumitkumar25128@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sumitkumar25128@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-sumitkumar25128%40gmail%2Ecom-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
