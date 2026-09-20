@@ -22,7 +22,7 @@ to strengthen my fundamentals and get my first hands-on development experience.
 - 🌱 Right now I'm learning **web development basics**
 - 🔨 Building beginner projects to learn by doing
 - 🎯 Looking for an **internship** to gain real-world experience
-- 📫 Reach me at **your.email@example.com**
+- 📫 Reach me at **sumitkumar25128@gmail.com**
 
 ---
 
